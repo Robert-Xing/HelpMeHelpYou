@@ -4,6 +4,7 @@
 
 ## 项目设计
 使用Visual Studio Code开发，语言为C++
+
 *第二个版本运用Python开发*
 
 ## 项目功能
