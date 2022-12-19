@@ -1,0 +1,2 @@
+Bread	Foods	Delicous	SJTU	18912345678	@sjtu.edu.cn
+面包	食物	好吃	23号	12321412	@qqcom
